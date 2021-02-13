@@ -1,0 +1,2 @@
+heat,level1,level2,level3,OFF
+cool,level1,level2,level3,OFF
